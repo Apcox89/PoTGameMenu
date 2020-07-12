@@ -1,0 +1,9 @@
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\bin\Debug\PoTWinFormsV1.exe.config
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\bin\Debug\PoTWinFormsV1.exe
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\bin\Debug\PoTWinFormsV1.pdb
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.csprojAssemblyReference.cache
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.Properties.Resources.resources
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.csproj.GenerateResource.cache
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.exe
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.pdb
+C:\Users\Andy\source\repos\PoTWinFormsV1\PoTWinFormsV1\obj\Debug\PoTWinFormsV1.PoTMenu.resources
