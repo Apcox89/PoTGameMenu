@@ -46,7 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Character.cs" />
+    <Compile Include="Models\Character.cs" />
+    <Compile Include="Models\Game.cs" />
     <Compile Include="PoTMenu.cs">
       <SubType>Form</SubType>
     </Compile>
